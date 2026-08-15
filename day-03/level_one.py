@@ -1,32 +1,32 @@
-# #Sum Calculator
+#Sum Calculator
 
-# print ("Enter the Number for sum: ")
-# value = int(input())
-# total = 0
+print ("Enter the Number for sum: ")
+value = int(input())
+total = 0
 
-# print("")
-# for i in range(value, 0, -1):
-#     total = total + i
-#     # print(i)
+print("")
+for i in range(value, 0, -1):
+    total = total + i
+    # print(i)
     
 
-# print(total)
+print(total)
 
 
 
-# #Factorial Calculator
+#Factorial Calculator
 
-# print ("Enter the Number for factorial: ")
-# value = int(input())
-# total = 1
+print ("Enter the Number for factorial: ")
+value = int(input())
+total = 1
 
-# print("")
-# for i in range(value, 0, -1):
-#     total = total * i
+print("")
+for i in range(value, 0, -1):
+    total = total * i
 
     
 
-# print(total)
+print(total)
 
 
 #count even and odd numbers total
