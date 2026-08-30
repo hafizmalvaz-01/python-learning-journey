@@ -1,56 +1,47 @@
-# Python Learning Journey 🐍
+# 🐍 Python Learning Journey
 
-Welcome to my Python Learning Journey!
+Welcome to my **Python Learning Journey** 🚀
 
-This repository documents my progress as I learn Python, improve my programming skills, and build practical projects.
+This repository documents my journey of learning Python from the fundamentals to logical problem solving, Data Structures & Algorithms, Object-Oriented Programming, and practical project development.
 
-## 🎯 Goal
-
-My goal is to strengthen my programming fundamentals, improve my problem-solving skills, and become capable of building real-world projects.
-
-## 📚 Learning Roadmap
-
-### Day 01 – Python Basics
-- Print statements
-- Variables
-- User input
-- Type conversion
-- Basic calculations
-
-#### Projects
-- Personal Introduction
-- Marks Calculator
-- Age Calculator
-
-### Day 02 – Conditional Statements
-- if statements
-- elif statements
-- else statements
-- Logical operators
-
-#### Projects
-- Even/Odd Checker
-- Positive/Negative/Zero Checker
-- Marks & Grade Calculator
-- Mini Student Information System
+My goal is not just to learn Python syntax. I want to build **strong programming logic, problem-solving skills, DSA knowledge, OOP understanding, and real-world development ability** through consistent practice and projects.
 
 ---
 
-## 🛠️ Technologies
+## 🎯 My Goal
 
-- Python
-- Git
-- GitHub
-- VS Code
+My long-term goal is to become a capable Python developer who can:
 
-## 🚀 Progress
-
-- [x] Day 01 – Python Basics
-- [x] Day 02 – Conditional Statements
-- [ ] Day 03 – Coming Soon...
+- Understand programming concepts deeply
+- Solve problems logically
+- Write clean and readable Python code
+- Understand Data Structures & Algorithms
+- Apply Object-Oriented Programming
+- Build practical projects
+- Learn and work with Python frameworks
+- Develop real-world applications
+- Prepare myself for professional software development
 
 ---
 
-### 🔥 My Goal
+# 🛣️ My Learning Path
 
-To consistently learn, practice, build projects, and improve my programming skills every day.
+```text
+Python Fundamentals
+        ↓
+Logic & Problem Solving
+        ↓
+Data Structures & Algorithms
+        ↓
+Object-Oriented Programming
+        ↓
+Python Projects
+        ↓
+Advanced Python
+        ↓
+Python Framework
+        ↓
+Real-World Projects
+        ↓
+Job Preparation 🚀
+
